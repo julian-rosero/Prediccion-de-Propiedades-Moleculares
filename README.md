@@ -1,26 +1,21 @@
 # Prediccion-de-Propiedades-Moleculares
 Proyecto de Inteligencia Artificial - Bioingeniería UdeA
 
-# UNIVERSIDAD DE ANTIOQUIA
-# FACULTAD DE INGENIERÍA
-# INTELIGENCIA ARTIFICIAL PARA LA CIENCIAS E INGENIERÍA
+### UNIVERSIDAD DE ANTIOQUIA
+### FACULTAD DE INGENIERÍA
+### INTELIGENCIA ARTIFICIAL PARA LA CIENCIAS E INGENIERÍA
 
-## Entrega 2:
 
 ## Predicción de propiedades moleculares
 
+## ESTUDIANTES.
+Linda Vanessa Ramos Pabon, c.c. 1085341028, Bioingeniería.
 
-Linda Vanessa Ramos Pabon 
-Cc. 1085341028
+Santiago Salazar Correa, c.c. 1000570053, Bioingeniería.
 
-Santiago Salazar Correa
-Cc. 1000570053
+Julian Andres Rosero Rosero, c.c. 1004214604, Bioingeniería.
 
-Julian Andres Rosero Rosero
-Cc. 1004214604
-
-
-*NOTA*:
+## DATOS 
 Para cargar los datos a Colab es necesario obtener un archivo 'kaggle.json' , el cuál se descarga siguiendo los siguientes pasos:
 
 *   Loguearse a la cuenta de Kaggle o crear una cuenta en caso de que no se tenga.
@@ -34,5 +29,6 @@ Al oprimir este botón, el archivo kaggle.json se descargará. Proceda a ejecuta
 
 “Predicting Molecular Properties”: Enlace de la competencia de Kaggle:[ Predicting Molecular Properties | Kaggle](https://www.kaggle.com/competitions/champs-scalar-coupling/overview)
 
-##Video - Entrega 2: https://youtu.be/HmyMCcTA0t4
-##Video - Entrega Final: https://youtu.be/jI0SJ0W7iGQ
+## VIDEOS.
+*  Video - Entrega 2: https://youtu.be/HmyMCcTA0t4
+*  Video - Entrega Final: https://youtu.be/jI0SJ0W7iGQ
