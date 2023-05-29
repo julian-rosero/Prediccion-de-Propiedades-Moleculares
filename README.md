@@ -35,3 +35,4 @@ Al oprimir este botón, el archivo kaggle.json se descargará. Proceda a ejecuta
 “Predicting Molecular Properties”: Enlace de la competencia de Kaggle:[ Predicting Molecular Properties | Kaggle](https://www.kaggle.com/competitions/champs-scalar-coupling/overview)
 
 ##Video - Entrega 2: https://youtu.be/HmyMCcTA0t4
+##Video - Entrega Final: https://youtu.be/jI0SJ0W7iGQ
